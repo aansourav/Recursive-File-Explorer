@@ -1,3 +1,3 @@
 # Recursive File Explorer
 
-[`🔗 Live Site - `](https://recursive-file-explorer.vercel.app)
+[`🔗 Live Site`](https://recursive-file-explorer.vercel.app)
